@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\IndeedBDD\IndeedBDD\obj\Debug\net6.0\IndeedBDD.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IndeedBDD\IndeedBDD\obj\Debug\net6.0\IndeedBDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\IndeedBDD\IndeedBDD\obj\Debug\net6.0\IndeedBDD.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\IndeedBDD\IndeedBDD\obj\Debug\net6.0\IndeedBDD.AssemblyInfo.cs
+C:\Users\DELL\source\repos\IndeedBDD\IndeedBDD\obj\Debug\net6.0\IndeedBDD.csproj.CoreCompileInputs.cache
